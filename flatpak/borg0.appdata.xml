@@ -8,13 +8,14 @@
 	<description>
 		<p>This is a very simple tone generator that allows users to draw an oscillator wave-shape and envelope, the oscillator can then be tuned by frequency and amplitude.</p>
 		<p>It can generate some interesting tones. It is interesting to see the contrast of limitations in comparison to a tone generator with frequency modulation and other forms of synthesis.</p>
+		<p>Exported files save to ~/EXPORTS/Borg_ER-0/</p>
 	</description>
 	<screenshots>
 		<screenshot>https://dashboard.snapcraft.io/site_media/appmedia/2021/09/er0.png</screenshot>
 	</screenshots>
 	<url type="homepage">https://github.com/mrbid/Borg-ER-0</url>
 	<releases>
-		<release version="1.0.1" date="2023-01-18" />
+		<release version="1.0.2" date="2023-12-07" />
 	</releases>
 	<content_rating type="oars-1.0" />
 </application>
