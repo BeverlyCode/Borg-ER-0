@@ -3,6 +3,8 @@
 	<id>borg0.desktop</id>
 	<metadata_license>CC-BY-4.0</metadata_license>
 	<project_license>MIT</project_license>
+	<developer_name>James William Fletcher</developer_name>
+	<launchable type="desktop-id">com.voxdsp.Borg0.desktop</launchable>
 	<name>Borg ER-0</name>
 	<summary>Draw oscillators and envelopes.</summary>
 	<description>
@@ -11,7 +13,10 @@
 		<p>Exported files save to ~/EXPORTS/Borg_ER-0/</p>
 	</description>
 	<screenshots>
-		<screenshot>https://dashboard.snapcraft.io/site_media/appmedia/2021/09/er0.png</screenshot>
+		<screenshot type="default">
+			<image>https://dashboard.snapcraft.io/site_media/appmedia/2021/09/er0.png</image>
+			<caption>Borg ER-0 Screenshot</caption>
+		</screenshot>
 	</screenshots>
 	<url type="homepage">https://github.com/mrbid/Borg-ER-0</url>
 	<releases>
